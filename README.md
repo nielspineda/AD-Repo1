@@ -1,4 +1,4 @@
-# Fibonacci-Tools
+# Fibonacci-Tools Application
 
 ![](https://github.com/corydobson/workflows/CI/badge.svg)
 
